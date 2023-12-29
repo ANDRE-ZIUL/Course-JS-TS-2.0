@@ -1,0 +1,7 @@
+35.199.107.56 
+
+git
+eval $(ssh-agent)
+
+ssh-add ~/.ssh/id_ed25519
+B1rosca!
